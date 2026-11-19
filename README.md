@@ -1,46 +1,35 @@
 # Hi, I'm Praise Ayeni 👋
 
-### Junior Data Analyst | Microsoft Excel | SQL | MySQL | Power BI
+### Aspiring Junior Data Analyst | SQL | MySQL | Excel | Power BI
 
-Welcome to my GitHub portfolio!
+I'm an aspiring Junior Data Analyst with an interest in transforming raw data into meaningful insights that support business decision-making.
 
-I'm an aspiring Junior Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making.
+I work with SQL, MySQL, Microsoft Excel, and Power BI to clean, analyse, and visualise data through practical projects.
 
-I enjoy exploring datasets, preparing data, analysing business performance, building interactive dashboards, and communicating findings through data storytelling.
+I'm continuously learning, analysing, and building projects to strengthen my analytical skills and grow as a data analyst.
 
-## 🛠️ Technical Skills
+## 🛠️ Skills & Tools
 
-- **Microsoft Excel:** Data organization, spreadsheet preparation and data analysis.
-- **SQL & MySQL:** Data cleaning, joins, CTEs, subqueries, aggregations and window functions.
-- **Power BI:** Interactive dashboards, DAX measures, KPI development and data visualization.
-- **Data Analysis:** Exploratory data analysis, trend analysis, business insights and recommendations.
+- **Data Analysis:** SQL, MySQL
+- **Data Preparation:** Microsoft Excel
+- **Data Visualisation:** Power BI
+- **Business Intelligence:** DAX
 
 ## 📊 Featured Projects
 
-### 1. Superstore Sales & Shipping Performance Analysis
+### 1. Superstore Sales & Shipping Analysis
+Analysed sales trends, customer segments, product performance, and shipping duration using Excel, MySQL, and Power BI.
 
-**Tools:** Microsoft Excel | MySQL | Power BI
+[View Project](https://github.com/praiseayeni99/superstore-sales-shipping-analysis)
 
-- Used Excel to organize the dataset and rearrange columns.
-- Used MySQL for data preparation, querying and analysis.
-- Analysed sales performance across products, regions and customer segments.
-- Investigated monthly sales trends and year-to-date performance.
-- Evaluated shipping efficiency and average shipping days across shipping modes.
-- Developed interactive Power BI dashboards and business recommendations.
+### 2. Europe Bike Sales Analysis
+Analysed revenue, net profit, product performance, and geographical sales using Excel and Power BI.
 
-### 2. Bike Sales Analysis
+[View Project](https://github.com/praiseayeni99/Europe-Bike-Sales-Analysis)
 
-**Tools:** Microsoft Excel | Power BI
+## 🎯 Current Goal
 
-- Used Excel to prepare and organize the bike sales dataset.
-- Analysed revenue and net profit performance.
-- Evaluated monthly sales and profitability trends.
-- Compared product and country performance.
-- Developed interactive Power BI dashboards to communicate business findings and recommendations.
-
-## 🎯 Career Objective
-
-I'm seeking opportunities as a Junior Data Analyst where I can apply my Excel, SQL and Power BI skills to solve business problems and support data-driven decision-making.
+Building practical data analysis projects and strengthening my SQL, Excel, and Power BI skills to pursue a Junior Data Analyst opportunity.
 
 ## 🤝 Let's Connect
 
@@ -49,4 +38,3 @@ I'm seeking opportunities as a Junior Data Analyst where I can apply my Excel, S
 
 ---
 
-*Continuously learning, analysing, and building projects to grow as a data analyst.*
